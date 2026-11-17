@@ -1,6 +1,7 @@
 # Code for the master's thesis
 
 *Static Credit Scores and Dynamic Risk Drivers: The Incremental Predictive Value of FICO for Mortgage Default Across Economic Regimes*
+
 Noé Peterhans, University of St. Gallen (HSG)
 
 ## How to run
